@@ -35,6 +35,6 @@ Sanic-Plugins-Framework==0.8.2
 six==1.12.0
 typing-extensions==3.7.4
 ujson==1.35
-urllib3==1.25.6
+urllib3==1.26.5
 uvloop==0.13.0
 websockets==8.0.2
